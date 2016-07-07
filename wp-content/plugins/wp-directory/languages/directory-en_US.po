@@ -1,0 +1,2328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Directory v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-26 09:18:46+0000\n"
+"Last-Translator: directory-admin <dum1@chimpgroup.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: directory/dir-agents/agents_detail.php:44
+#: directory/dir-styles/single_templates.php:318
+#@ directory
+msgid "Contact Timings"
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:91
+#@ directory
+msgid "About "
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:115
+#: directory/dir-agents/agents_detail.php:162
+#: directory/dir-agents/agents_detail.php:165
+#: directory-types/frontend_functions.php:378
+#@ directory
+msgid "Address"
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:159
+#@ directory
+msgid "Fax"
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:276
+#@ directory
+msgid "Recent Ads"
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:390
+#: directory/dir-styles/directory_ajax_templates.php:387
+#: directory/dir-styles/directory_ajax_templates.php:757
+#: directory/dir-styles/directory_ajax_templates.php:1128
+#: directory/dir-styles/directory_ajax_templates.php:1963
+#: directory/dir-styles/directory_templates.php:520
+#: directory/dir-styles/directory_templates.php:867
+#: directory/dir-styles/directory_templates.php:1217
+#: directory/dir-styles/directory_templates.php:1550
+#: directory/dir-styles/directory_templates.php:1943
+#: directory/dir-styles/directory_templates.php:2327
+#@ directory
+msgid "No Directory Found"
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:411
+#@ directory
+msgid "You are not authorized to access this page."
+msgstr ""
+
+#: directory/dir-agents/agents_detail.php:420
+#@ directory
+msgid "Pleas login first to view detail page"
+msgstr ""
+
+#: directory/dir-agents/agents_functions.php:75
+#@ directory
+msgid "Our Agents"
+msgstr ""
+
+#: directory/dir-agents/agents_functions.php:76
+#@ directory
+msgid "Sort by:"
+msgstr ""
+
+#: directory/dir-agents/agents_functions.php:97
+#: directory/dir-search/search_element.php:126
+#: directory/dir-styles/directory_element.php:248
+#: directory/dir-styles/directory_element.php:344
+#@ directory
+msgid "All"
+msgstr ""
+
+#: directory/dir-agents/agents_functions.php:126
+#@ directory
+msgid "Become Agent"
+msgstr ""
+
+#: directory/dir-agents/agents_templates.php:141
+#: directory/dir-agents/agents_templates.php:228
+#: directory/dir-agents/agents_templates.php:303
+#@ directory
+msgid "No User found."
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:78
+#@ directory
+msgid "Edit Directory Categories Options"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:91
+#@ directory
+msgid "Section Title"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:98
+#@ directory
+msgid "Categories Views"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:102
+#@ directory
+msgid "List"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:103
+#@ directory
+msgid "Grid"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:104
+#@ directory
+msgid "Image"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:105
+#@ directory
+msgid "Gradient"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:106
+#@ directory
+msgid "Simple"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:123
+#@ directory
+msgid "Listing Page"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:143
+#@ directory
+msgid "Background Color"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:148
+#: directory/dir-categories/categories_element.php:159
+#@ directory
+msgid "Add a hex background colour code, If you want to override the default"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:154
+#@ directory
+msgid "Text Color"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:176
+#: directory-post-types/post_type_directory.php:703
+#: register-templates/templates/page_add_directory.php:473
+#@ directory
+msgid "Select Directory Type"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:200
+#@ directory
+msgid "Number of Categories"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:206
+#@ directory
+msgid "Custom ID"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:212
+#@ directory
+msgid "Animation Class"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:215
+#@ directory
+msgid "Select Animation"
+msgstr ""
+
+#: directory/dir-categories/categories_element.php:235
+#@ directory
+msgid "INSERT"
+msgstr ""
+
+#: directory/dir-categories/categories_template.php:115
+#@ directory
+msgid "No Post"
+msgstr ""
+
+#: directory/dir-categories/categories_template.php:115
+#@ directory
+msgid "View All"
+msgstr ""
+
+#: directory/dir-search/search_element.php:62
+#@ directory
+msgid "Edit Directory Search Options"
+msgstr ""
+
+#: directory/dir-search/search_element.php:68
+#: directory/dir-styles/directory_element.php:77
+#@ directory
+msgid "Directory Title"
+msgstr ""
+
+#: directory/dir-search/search_element.php:71
+#@ directory
+msgid "Directory Search Section Title"
+msgstr ""
+
+#: directory/dir-search/search_element.php:76
+#@ directory
+msgid "Search Views"
+msgstr ""
+
+#: directory/dir-search/search_element.php:80
+#@ directory
+msgid "View 1"
+msgstr ""
+
+#: directory/dir-search/search_element.php:81
+#@ directory
+msgid "View 2"
+msgstr ""
+
+#: directory/dir-search/search_element.php:82
+#@ directory
+msgid "View 3"
+msgstr ""
+
+#: directory/dir-search/search_element.php:88
+#@ directory
+msgid "Labels ON/OFF"
+msgstr ""
+
+#: directory/dir-search/search_element.php:92
+#: directory/dir-search/search_element.php:103
+#: directory/dir-styles/directory_element.php:356
+#: directory/dir-styles/directory_element.php:406
+#: directory/dir-styles/directory_element.php:417
+#: directory-post-types/post_type_directory.php:863
+#: directory-types/frontend_functions.php:148
+#: register-templates/templates/page_add_directory.php:634
+#@ directory
+msgid "Yes"
+msgstr ""
+
+#: directory/dir-search/search_element.php:93
+#: directory/dir-search/search_element.php:104
+#: directory/dir-styles/directory_element.php:357
+#: directory/dir-styles/directory_element.php:407
+#: directory/dir-styles/directory_element.php:418
+#: directory-post-types/post_type_directory.php:864
+#: directory-types/frontend_functions.php:149
+#: register-templates/templates/page_add_directory.php:635
+#@ directory
+msgid "No"
+msgstr ""
+
+#: directory/dir-search/search_element.php:99
+#@ directory
+msgid "Enable Map"
+msgstr ""
+
+#: directory/dir-search/search_element.php:110
+#: directory/dir-styles/directory_element.php:111
+#@ directory
+msgid "Map Style"
+msgstr ""
+
+#: directory/dir-search/search_element.php:114
+#: directory/dir-styles/directory_element.php:115
+#@ directory
+msgid "Style 1"
+msgstr ""
+
+#: directory/dir-search/search_element.php:115
+#: directory/dir-styles/directory_element.php:116
+#@ directory
+msgid "Style 2"
+msgstr ""
+
+#: directory/dir-search/search_element.php:116
+#: directory/dir-styles/directory_element.php:117
+#@ directory
+msgid "Style 3"
+msgstr ""
+
+#: directory/dir-search/search_element.php:122
+#@ directory
+msgid "Search Result Filters"
+msgstr ""
+
+#: directory/dir-search/search_element.php:127
+#: directory/dir-styles/directory_element.php:345
+#: directory/dir-styles/directory_functions.php:957
+#: directory/dir-styles/directory_functions.php:971
+#: register-templates/templates/functions_profile.php:1190
+#@ directory
+msgid "Featured"
+msgstr ""
+
+#: directory/dir-search/search_element.php:128
+#: directory/dir-styles/directory_element.php:346
+#@ directory
+msgid "Free"
+msgstr ""
+
+#: directory/dir-search/search_element.php:134
+#@ directory
+msgid "Search Result Page"
+msgstr ""
+
+#: directory/dir-search/search_element.php:163
+#@ directory
+msgid "Search Results Per Page"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:99
+#: directory/dir-search/search_template.php:865
+#: directory/dir-styles/directory_element.php:301
+#@ directory
+msgid "Select Categories"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:198
+#@ directory
+msgid "Search for"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:200
+#: directory/dir-search/search_template.php:392
+#: directory/dir-styles/directory_functions.php:125
+#@ directory
+#@ Directory
+msgid "Enter keyword..."
+msgstr ""
+
+#: directory/dir-search/search_functions.php:218
+#@ directory
+msgid "Ad Type"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:220
+#@ directory
+msgid "--Select Ad Type--"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:239
+#: directory/dir-search/search_template.php:1590
+#: directory/dir-styles/directory_functions.php:288
+#: directory-post-types/post_type_directory.php:753
+#: directory-types/admin_functions.php:46
+#: directory-types/frontend_functions.php:59
+#: directory-types/pt_directory_types.php:84
+#: directory-types/pt_directory_types.php:103
+#: register-templates/templates/page_add_directory.php:528
+#@ directory
+msgid "Categories"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:305
+#@ directory
+msgid "Select your Location"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:321
+#: directory/dir-search/search_template.php:504
+#: directory/dir-styles/directory_functions.php:211
+#@ directory
+msgid "Select Locations"
+msgstr ""
+
+#: directory/dir-search/search_functions.php:356
+#@ directory
+msgid "Distance in Miles"
+msgstr ""
+
+#: directory/dir-search/search_template.php:269
+#: directory/dir-styles/directory_ajax_templates.php:1502
+#: directory/dir-styles/directory_templates.php:2718
+#@ directory
+msgid "<i class=\"icon-spinner8\"></i>"
+msgstr ""
+
+#: directory/dir-search/search_template.php:270
+#: directory/dir-styles/directory_ajax_templates.php:1509
+#: directory/dir-styles/directory_templates.php:2725
+#@ directory
+msgid "Full Screen"
+msgstr ""
+
+#: directory/dir-search/search_template.php:390
+#@ directory
+msgid "Search Text"
+msgstr ""
+
+#: directory/dir-search/search_template.php:441
+#@ directory
+msgid "All Types"
+msgstr ""
+
+#: directory/dir-search/search_template.php:444
+#@ directory
+msgid "--All Types--"
+msgstr ""
+
+#: directory/dir-search/search_template.php:482
+#: directory-post-types/post_type_directory.php:912
+#: directory-types/admin_functions.php:246
+#@ directory
+msgid "Locations"
+msgstr ""
+
+#: directory/dir-search/search_template.php:539
+#@ directory
+msgid "Distance From Location"
+msgstr ""
+
+#: directory/dir-search/search_template.php:740
+#@ directory
+msgid "Price Range"
+msgstr ""
+
+#: directory/dir-search/search_template.php:744
+#@ directory
+msgid "Min Price"
+msgstr ""
+
+#: directory/dir-search/search_template.php:747
+#@ directory
+msgid "Max Price"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:71
+#@ directory
+msgid "Edit Directory Options"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:80
+#@ directory
+msgid "Directory Section Title"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:84
+#@ directory
+msgid "Directory Header"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:87
+#: directory/dir-styles/directory_element.php:99
+#@ directory
+msgid "Blank Header"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:88
+#: directory/dir-styles/directory_element.php:105
+#@ directory
+msgid "Plain Heading"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:89
+#@ directory
+msgid "Map"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:90
+#: directory/dir-styles/directory_element.php:127
+#@ directory
+msgid "Revolution Slider"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:91
+#: directory/dir-styles/directory_element.php:156
+#@ directory
+msgid "Banner"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:92
+#: directory/dir-styles/directory_element.php:182
+#@ directory
+msgid "Adsense"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:148
+#, php-format
+#@ directory
+msgid "Please install a <a href=\"%s\">Revolution Slider</a> first."
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:161
+#@ directory
+msgid "Browse an image for Banner"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:201
+#@ directory
+msgid "Please add Banners first from Theme Options."
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:209
+#@ directory
+msgid "Sub Header Background Color"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:218
+#@ directory
+msgid "Sub Header Padding Top"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:222
+#@ directory
+msgid "Set the top padding (In PX)"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:226
+#@ directory
+msgid "Sub Header Padding Bottom"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:230
+#@ directory
+msgid "Set the Bottom padding (In PX)"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:245
+#: directory-types/pt_directory_types.php:16
+#: directory-types/pt_directory_types.php:17
+#@ directory
+msgid "Directory Types"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:266
+#@ directory
+msgid "Choose Category"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:315
+#@ directory
+msgid "Select Number of Fields"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:340
+#@ directory
+msgid "Listing Filters"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:352
+#@ directory
+msgid "Featured on top ON/OFF"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:363
+#@ directory
+msgid "Listing Sorting"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:367
+#@ directory
+msgid "Recent"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:368
+#@ directory
+msgid "Popular"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:369
+#: directory/dir-styles/directory_functions.php:1124
+#: register-templates/templates/directory_ads.php:302
+#: register-templates/templates/functions_profile.php:1261
+#@ directory
+msgid "Urgent"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:374
+#@ directory
+msgid "Select View"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:387
+#@ directory
+msgid "Switch View"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:402
+#@ directory
+msgid "Filterable"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:413
+#@ directory
+msgid "Sortable"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:424
+#@ directory
+msgid "Pagination"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:427
+#@ directory
+msgid "Show Pagination"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:428
+#@ directory
+msgid "Single Page"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:434
+#@ directory
+msgid "No. of record Per Page"
+msgstr ""
+
+#: directory/dir-styles/directory_element.php:437
+#@ directory
+msgid "To display all the records, leave this field blank"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:145
+#@ directory
+msgid "All Categories"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:530
+#@ directory
+msgid "Filter"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:615
+#@ directory
+msgid "Sort By:"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:616
+#@ directory
+msgid "Most Recent"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:617
+#@ directory
+msgid "Most Popular"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:619
+#@ directory
+msgid "Alphabetical"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:620
+#@ directory
+msgid "Highest Price"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:621
+#@ directory
+msgid "Lowest Price"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:763
+#@ directory
+msgid "Specifications"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:837
+#: directory/dir-styles/directory_functions.php:900
+#: register-templates/templates/functions_profile.php:246
+#@ directory
+msgid "Unfavourite"
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:866
+#: directory/dir-styles/directory_templates.php:1541
+#@ directory
+msgid "Login to add listings in favorites."
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:942
+#@ directory
+msgid "Sum of Package is "
+msgstr ""
+
+#: directory/dir-styles/directory_functions.php:1055
+#@ directory
+msgid "reviews"
+msgstr ""
+
+#: directory/dir-styles/directory_headers.php:49
+#, php-format
+#@ directory
+msgid "%s Listings"
+msgstr ""
+
+#: directory/dir-styles/directory_templates.php:2293
+#@ directory
+msgid "Posted On "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:200
+#@ directory
+msgid "Phone: "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:201
+#@ directory
+msgid "Mobile: "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:202
+#@ directory
+msgid "Fax: "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:263
+#@ directory
+msgid "MORE ADS BY "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:303
+#@ directory
+msgid " Recent Ads"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:381
+#@ directory
+msgid "Posted on "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:387
+#@ directory
+msgid "in "
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:388
+#: directory/dir-styles/single_templates.php:599
+#, php-format
+#@ directory
+msgid "%1$s"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:414
+#@ directory
+msgid "Close"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:416
+#@ directory
+msgid "Write your Report"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:424
+#: directory/dir-styles/single_templates.php:474
+#: directory-post-types/post_type_directory.php:587
+#: register-templates/templates/directory_ads.php:459
+#: register-templates/templates/page_profile.php:192
+#: register-templates/templates/user_directory_payments.php:47
+#: settings/plugin_options.php:219
+#@ directory
+msgid "Name"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:429
+#: directory/dir-styles/single_templates.php:479
+#: directory-post-types/post_type_directory.php:589
+#: register-templates/templates/directory_ads.php:461
+#@ directory
+msgid "Email"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:434
+#: directory/dir-styles/single_templates.php:484
+#: directory/dir-styles/single_templates.php:911
+#@ directory
+msgid "Subject"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:442
+#: directory/dir-styles/single_templates.php:489
+#@ directory
+msgid "Write Description"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:466
+#@ directory
+msgid "Write your Claim"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:584
+#: register-templates/templates/page_add_directory.php:450
+#@ directory
+msgid "Description"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:587
+#@ directory
+msgid "Pages:"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:593
+#: directory-types/admin_functions.php:124
+#: directory-types/frontend_functions.php:258
+#: register-templates/templates/page_add_directory.php:760
+#@ directory
+msgid "Tags"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:611
+#@ directory
+msgid " <h5>Feature List</h5>"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:706
+#, php-format
+#@ directory
+msgid "%s Reviews"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:713
+#@ directory
+msgid "Leave us a review"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:812
+#@ directory
+msgid "Looking for review? There is no review here!"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:857
+#@ directory
+msgid "Already Submited Review."
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:861
+#@ directory
+msgid "Oops! You cannot add review to your own Ad."
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:866
+#@ directory
+msgid "Add Review"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:916
+#@ directory
+msgid "Write Review"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:925
+#@ directory
+msgid "You must login to give Review"
+msgstr ""
+
+#: directory/dir-styles/single_templates.php:946
+#@ directory
+msgid "Related Listing"
+msgstr ""
+
+#: directory/functions.php:41
+#: directory/functions.php:83
+#@ directory
+msgid "Added to Favourite"
+msgstr ""
+
+#: directory/functions.php:46
+#: directory/functions.php:93
+#@ directory
+msgid "You have to login first."
+msgstr ""
+
+#: directory/functions.php:148
+#@ directory
+msgid "Price On Call: "
+msgstr ""
+
+#: directory/functions.php:151
+#@ directory
+msgid "Price On Call"
+msgstr ""
+
+#: directory/functions.php:172
+#: directory/functions.php:195
+#: directory/functions.php:221
+#@ directory
+msgid "Removed From Favourite"
+msgstr ""
+
+#: directory/functions.php:175
+#: directory/functions.php:204
+#: directory/functions.php:223
+#: directory/functions.php:240
+#@ directory
+msgid "You are not authorised"
+msgstr ""
+
+#: directory/functions.php:238
+#@ directory
+msgid "Removed From Wishlist"
+msgstr ""
+
+#: directory/functions.php:372
+#: directory-post-types/post_type_reports.php:157
+#: register-templates/templates/functions_profile.php:544
+#@ directory
+msgid "Please enter a valid email."
+msgstr ""
+
+#: directory/functions.php:706
+#: directory/functions.php:709
+#@ directory
+msgid " Listings"
+msgstr ""
+
+#: directory/functions.php:801
+#@ directory
+msgid "Enquire Now"
+msgstr ""
+
+#: directory/functions.php:929
+#@ directory
+msgid "Strars"
+msgstr ""
+
+#: directory/functions.php:930
+#@ directory
+msgid "Ratings"
+msgstr ""
+
+#: directory/functions.php:1150
+#@ directory
+msgid "Excellent"
+msgstr ""
+
+#: directory/functions.php:1153
+#@ directory
+msgid "Good"
+msgstr ""
+
+#: directory/functions.php:1156
+#@ directory
+msgid "Average"
+msgstr ""
+
+#: directory/functions.php:1159
+#@ directory
+msgid "Bad"
+msgstr ""
+
+#: directory-login/cs-social-login/cs_social_login.php:146
+#@ directory
+msgid "<strong>ERROR</strong>: Registration is disabled."
+msgstr ""
+
+#: directory-login/cs-social-login/cs_social_login.php:306
+#, php-format
+#@ directory
+msgid "Something went wrong: %s"
+msgstr ""
+
+#: directory-login/cs-social-login/google/cs_google_connect.php:170
+#@ directory
+msgid "This Google profile is already linked with other account. Linking process failed!"
+msgstr ""
+
+#: directory-login/login_forms.php:44
+#@ directory
+msgid "OR"
+msgstr ""
+
+#: directory-login/login_forms.php:61
+#@ directory
+msgid "Login With Facebook"
+msgstr ""
+
+#: directory-login/login_forms.php:64
+#@ directory
+msgid "Login With twitter"
+msgstr ""
+
+#: directory-login/login_forms.php:67
+#@ directory
+msgid "Login with Google Plus"
+msgstr ""
+
+#: directory-login/login_forms.php:146
+#: directory-login/login_forms.php:259
+#@ directory
+msgid "User Sign in"
+msgstr ""
+
+#: directory-login/login_forms.php:162
+#: directory-login/login_forms.php:278
+#: directory-login/login_forms.php:357
+#@ directory
+msgid "Sign in"
+msgstr ""
+
+#: directory-login/login_forms.php:173
+#: directory-login/login_forms.php:296
+#@ directory
+msgid "User Sign Up"
+msgstr ""
+
+#: directory-login/login_forms.php:190
+#: directory-login/login_forms.php:205
+#: directory-login/login_forms.php:312
+#: directory-login/login_forms.php:326
+#: directory-login/shortcodes.php:178
+#@ directory
+msgid "Sign Up"
+msgstr ""
+
+#: directory-login/login_forms.php:202
+#: directory-login/login_forms.php:323
+#: directory-login/login_forms.php:384
+#@ directory
+msgid "Forget Password?"
+msgstr ""
+
+#: directory-login/login_forms.php:206
+#: directory-login/login_forms.php:327
+#: directory-login/shortcodes.php:112
+#@ directory
+msgid "Sign In"
+msgstr ""
+
+#: directory-login/login_forms.php:374
+#: directory-login/shortcodes.php:127
+#@ directory
+msgid "Remember me"
+msgstr ""
+
+#: directory-login/login_forms.php:377
+#@ directory
+msgid "login"
+msgstr ""
+
+#: directory-login/login_functions.php:31
+#@ directory
+msgid "User name should not be empty."
+msgstr ""
+
+#: directory-login/login_functions.php:34
+#@ directory
+msgid "Password should not be empty."
+msgstr ""
+
+#: directory-login/login_functions.php:39
+#@ directory
+msgid "Wrong username or password."
+msgstr ""
+
+#: directory-login/login_functions.php:46
+#: directory-login/login_functions.php:49
+#@ directory
+msgid "Login Successfully..."
+msgstr ""
+
+#: directory-login/shortcodes.php:62
+#@ directory
+msgid "Login / Register"
+msgstr ""
+
+#: directory-login/shortcodes.php:72
+#@ directory
+msgid "Login to add new listings."
+msgstr ""
+
+#: directory-login/shortcodes.php:90
+#@ directory
+msgid "User Registration is disabled"
+msgstr ""
+
+#: directory-login/shortcodes.php:102
+#@ directory
+msgid "You must be logged out for registration."
+msgstr ""
+
+#: directory-login/shortcodes.php:131
+#@ directory
+msgid "Log in"
+msgstr ""
+
+#: directory-login/shortcodes.php:142
+#@ directory
+msgid "Forget Password"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:120
+#: directory-post-types/post_type_directory.php:121
+#@ directory
+msgid "Add New "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:122
+#: directory-types/pt_directory_types.php:21
+#: register-templates/templates/directory_ads.php:410
+#@ directory
+msgid "Edit"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:123
+#@ directory
+msgid "Edit "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:124
+#@ directory
+msgid "New "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:125
+#: directory-post-types/post_type_directory.php:126
+#@ directory
+msgid "View "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:127
+#@ directory
+msgid "Search "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:128
+#@ directory
+msgid "No  found"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:129
+#@ directory
+msgid "No  found in trash"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:130
+#@ directory
+msgid "Parent "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:132
+#@ directory
+msgid "This is where you can add new "
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:263
+#@ directory
+msgid " Gallery"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:296
+#: directory-post-types/post_type_directory.php:305
+#: directory-types/frontend_functions.php:217
+#: directory-types/frontend_functions.php:230
+#: register-templates/templates/page_add_directory.php:716
+#: register-templates/templates/page_add_directory.php:729
+#: widgets/widgets.php:35
+#: widgets/widgets.php:44
+#@ directory
+msgid "Delete image"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:296
+#: directory-post-types/post_type_directory.php:305
+#: directory-types/frontend_functions.php:230
+#: register-templates/templates/page_add_directory.php:729
+#: widgets/widgets.php:35
+#: widgets/widgets.php:44
+#@ directory
+msgid "Delete"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:305
+#@ directory
+msgid "Add Images to  Gallery"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:305
+#: directory-types/frontend_functions.php:230
+#: register-templates/templates/page_add_directory.php:729
+#: widgets/widgets.php:44
+#@ directory
+msgid "Add to gallery"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:305
+#@ directory
+msgid "Add  gallery images"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:341
+#@ directory
+msgid "General"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:346
+#@ directory
+msgid "Sub Header"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:351
+#@ directory
+msgid "SEO Options"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:355
+#@ directory
+msgid "Directory Options"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:500
+#: directory-types/pt_directory_types.php:188
+#: settings/plugin_options.php:54
+#@ directory
+msgid "Packages"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:543
+#: directory-post-types/post_type_directory.php:553
+#: directory-types/pt_directory_types.php:254
+#: directory-types/pt_directory_types.php:382
+#: register-templates/templates/page_add_directory.php:445
+#: settings/plugin_options.php:111
+#: settings/plugin_options.php:143
+#@ directory
+msgid "Title"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:544
+#: directory-post-types/post_type_directory.php:555
+#: directory-post-types/post_type_directory.php:900
+#: directory-types/admin_functions.php:172
+#: register-templates/templates/user_directory_payments.php:50
+#: settings/plugin_options.php:151
+#: settings/plugin_options.php:222
+#: settings/plugin_options.php:334
+#@ directory
+msgid "Price"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:545
+#: directory-post-types/post_type_directory.php:557
+#@ directory
+msgid "Duration"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:557
+#@ directory
+msgid "no of days"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:580
+#: register-templates/templates/directory_ads.php:452
+#@ directory
+msgid "Ad Transaction"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:588
+#: register-templates/templates/directory_ads.php:460
+#@ directory
+msgid "Date"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:590
+#: register-templates/templates/directory_ads.php:462
+#@ directory
+msgid "Trasection ID"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:591
+#: register-templates/templates/directory_ads.php:463
+#@ directory
+msgid "Amount"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:592
+#: register-templates/templates/directory_ads.php:464
+#@ directory
+msgid "IPN Track ID"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:648
+#@ directory
+msgid "Package Expiry Date"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:652
+#: directory-post-types/post_type_directory.php:663
+#: directory-post-types/post_type_directory.php:679
+#@ directory
+msgid "0000-00-00 00:00:00"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:659
+#@ directory
+msgid "Package Payment Date"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:670
+#@ directory
+msgid "Urgent till"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:808
+#: directory-types/admin_functions.php:151
+#: directory-types/frontend_functions.php:236
+#: register-templates/templates/page_add_directory.php:737
+#@ Directory
+msgid "Add Video"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:812
+#: directory-types/admin_functions.php:155
+#: directory-types/frontend_functions.php:240
+#: register-templates/templates/page_add_directory.php:741
+#@ Directory
+msgid "Video URL"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:818
+#: directory-types/admin_functions.php:161
+#: directory-types/frontend_functions.php:243
+#: register-templates/templates/page_add_directory.php:744
+#@ Directory
+msgid "You can add Youtube, Vimeo, Dailymotion Videos URL etc.."
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:825
+#@ directory
+msgid "Feature`s"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:829
+#: directory-types/admin_functions.php:180
+#: directory-types/frontend_functions.php:855
+#: directory-types/pt_directory_types.php:86
+#@ directory
+msgid "Feature List"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:856
+#: register-templates/templates/functions_profile.php:38
+#: register-templates/templates/functions_profile.php:323
+#: register-templates/templates/functions_profile.php:419
+#@ directory
+msgid "Reviews"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:860
+#: directory-types/frontend_functions.php:146
+#: register-templates/templates/page_add_directory.php:632
+#@ directory
+msgid "Enable Reviews"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:876
+#@ directory
+msgid "Urgent Ad Price"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:889
+#@ directory
+msgid "Urgent Ad Duration"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:922
+#: directory-types/admin_functions.php:222
+#@ directory
+msgid "FAQS"
+msgstr ""
+
+#: directory-post-types/post_type_directory.php:940
+#: directory-types/admin_functions.php:260
+#@ directory
+msgid "Custom Features"
+msgstr ""
+
+#: directory-post-types/post_type_reports.php:49
+#@ directory
+msgid "Select report type"
+msgstr ""
+
+#: directory-post-types/post_type_reports.php:177
+#@ directory
+msgid "Your report has submitted."
+msgstr ""
+
+#: directory-post-types/post_type_reports.php:181
+#@ directory
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: directory-types/admin_functions.php:965
+#@ directory
+msgid "Gallery is Empty. Please Select Media"
+msgstr ""
+
+#: directory-types/admin_functions.php:983
+#@ directory
+msgid "Select Media"
+msgstr ""
+
+#: directory-types/admin_functions.php:1380
+#@ directory
+msgid "Sale Settingss"
+msgstr ""
+
+#: directory-types/admin_functions.php:1382
+#@ directory
+msgid "Location Options."
+msgstr ""
+
+#: directory-types/admin_functions.php:1613
+#: directory-types/admin_functions.php:1615
+#: register-templates/templates/cs_edit_profile.php:244
+#: register-templates/templates/functions_profile.php:687
+#@ directory
+msgid "Opening Hours"
+msgstr ""
+
+#: directory-types/admin_functions.php:1700
+#@ directory
+msgid "Old Price"
+msgstr ""
+
+#: directory-types/admin_functions.php:1704
+#@ directory
+msgid "New Price"
+msgstr ""
+
+#: directory-types/admin_functions.php:2182
+#@ directory
+msgid "FAQ Title"
+msgstr ""
+
+#: directory-types/admin_functions.php:2186
+#@ directory
+msgid "FAQ Description"
+msgstr ""
+
+#: directory-types/directory_custom_fields.php:528
+#@ directory
+msgid "Min Value"
+msgstr ""
+
+#: directory-types/directory_custom_fields.php:537
+#@ directory
+msgid "Max Value"
+msgstr ""
+
+#: directory-types/directory_types_options.php:241
+#@ directory
+msgid "CHOOSE OPTIONS"
+msgstr ""
+
+#: directory-types/frontend_functions.php:188
+#: register-templates/templates/page_add_directory.php:686
+#@ directory
+msgid "Add Images"
+msgstr ""
+
+#: directory-types/frontend_functions.php:193
+#: register-templates/templates/page_add_directory.php:692
+#@ directory
+msgid "First image will be main Image."
+msgstr ""
+
+#: directory-types/frontend_functions.php:217
+#: register-templates/templates/page_add_directory.php:716
+#@ directory
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: directory-types/frontend_functions.php:227
+#: register-templates/templates/page_add_directory.php:726
+#@ directory
+msgid "Update Gallery"
+msgstr ""
+
+#: directory-types/frontend_functions.php:228
+#: register-templates/templates/page_add_directory.php:727
+#@ directory
+msgid "You can add up to  images (up to 9mb per upload)."
+msgstr ""
+
+#: directory-types/frontend_functions.php:230
+#: register-templates/templates/page_add_directory.php:729
+#@ directory
+msgid "Upload Images"
+msgstr ""
+
+#: directory-types/frontend_functions.php:266
+#: register-templates/templates/page_add_directory.php:769
+#: register-templates/templates/page_add_directory.php:859
+#@ directory
+msgid "By clicking \"Submit\" you agree to our Terms of Use & posting rules"
+msgstr ""
+
+#: directory-types/frontend_functions.php:381
+#@ directory
+msgid "Country"
+msgstr ""
+
+#: directory-types/frontend_functions.php:699
+#@ directory
+msgid "Frequesntly Asked Question"
+msgstr ""
+
+#: directory-types/frontend_functions.php:725
+#@ directory
+msgid "Add New Question"
+msgstr ""
+
+#: directory-types/frontend_functions.php:731
+#@ directory
+msgid "Add FAQ"
+msgstr ""
+
+#: directory-types/frontend_functions.php:790
+#@ directory
+msgid "Edit FAQ"
+msgstr ""
+
+#: directory-types/frontend_functions.php:892
+#@ directory
+msgid "Price Settings"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:18
+#@ directory
+msgctxt "Admin menu name"
+msgid "Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:19
+#@ directory
+msgid "Add Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:20
+#@ directory
+msgid "Add New Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:22
+#@ directory
+msgid "Edit Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:23
+#@ directory
+msgid "New Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:24
+#: directory-types/pt_directory_types.php:25
+#@ directory
+msgid "View Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:26
+#@ directory
+msgid "Search Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:27
+#@ directory
+msgid "No Directory Types found"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:28
+#@ directory
+msgid "No Directory Types found in trash"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:29
+#@ directory
+msgid "Parent Directory Types"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:31
+#@ directory
+msgid "This is where you can add new Directory Types."
+msgstr ""
+
+#: directory-types/pt_directory_types.php:82
+#@ directory
+msgid "OPTIONS"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:83
+#@ directory
+msgid "Custom Fields"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:85
+#@ directory
+msgid "Reviews Options"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:247
+#@ directory
+msgid "CLICK TO ADD RATING TYPE"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:248
+#@ directory
+msgid "ADD RATING"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:255
+#: directory-types/pt_directory_types.php:383
+#: settings/plugin_options.php:112
+#@ directory
+msgid "Actions"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:278
+#: directory-types/pt_directory_types.php:323
+#: directory-types/pt_directory_types.php:406
+#@ directory
+msgid "Rating Settings"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:329
+#@ directory
+msgid "Rating Title"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:375
+#@ directory
+msgid "CLICK TO ADD Feature"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:376
+#@ directory
+msgid "ADD Feature"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:451
+#@ directory
+msgid "feature Settings"
+msgstr ""
+
+#: directory-types/pt_directory_types.php:457
+#@ directory
+msgid "feature Title"
+msgstr ""
+
+#: register-templates/class_register_templates.php:24
+#@ directory
+msgid "User Profile"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:2
+#@ directory
+msgid "Profiles Setting"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:6
+#@ directory
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:12
+#@ directory
+msgid "user profile update successfully"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:57
+#@ directory
+msgid "Update your avatar manually,If the not set the default Gravatar will be the same as your login email/user account."
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:58
+#@ directory
+msgid " Max Upload Size: 1MB, Dimensions: 60x60 , Extensions: JPEG,PNG"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:72
+#@ directory
+msgid "About me"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:78
+#@ directory
+msgid "Full Name"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:85
+#@ directory
+msgid "TagLine"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:94
+#@ directory
+msgid "Biography"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:102
+#@ directory
+msgid "Public Profile"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:106
+#: register-templates/templates/cs_edit_profile.php:120
+#@ directory
+msgid "Show"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:110
+#: register-templates/templates/cs_edit_profile.php:124
+#@ directory
+msgid "hide"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:116
+#@ directory
+msgid "Contact Form"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:135
+#@ directory
+msgid "Contact Detail"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:139
+#@ directory
+msgid "Landline"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:143
+#@ directory
+msgid "Mobile"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:147
+#@ directory
+msgid "Email Address"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:151
+#@ directory
+msgid "Skype"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:155
+#@ directory
+msgid "website"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:162
+#@ directory
+msgid "Social Media"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:166
+#@ directory
+msgid "Facebook"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:173
+#@ directory
+msgid "Twitter"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:180
+#@ directory
+msgid "Linkedin"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:187
+#@ directory
+msgid "Pinterest"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:194
+#@ directory
+msgid "Google Plus"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:201
+#@ directory
+msgid "Instagram"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:211
+#@ directory
+msgid "Password Update"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:215
+#@ directory
+msgid "New Password"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:221
+#@ directory
+msgid "Repeat Password"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:224
+#@ directory
+msgid "Enter same password in both fields. Use an uppercase letter and a number for stronger password."
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:231
+#@ directory
+msgid "Paypal"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:235
+#@ directory
+msgid "Paypal Email"
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:256
+#@ directory
+msgid "Carefully Check entered information and than click button to submit them."
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:257
+#@ directory
+msgid "By Clicking 'Submit' you agree to our Terms of Use & Posting Rules."
+msgstr ""
+
+#: register-templates/templates/cs_edit_profile.php:258
+#@ directory
+msgid "Submit Changes"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:20
+#: register-templates/templates/functions_profile.php:308
+#: register-templates/templates/functions_profile.php:345
+#@ directory
+msgid "My Ads"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:22
+#@ directory
+msgid "User Ads"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:47
+#@ directory
+msgid "Create New ads"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:308
+#@ directory
+msgid "Start date"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:320
+#: register-templates/templates/directory_ads.php:323
+#@ directory
+msgid "Expire Date: "
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:326
+#@ directory
+msgid "Renew Package"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:330
+#: register-templates/templates/directory_ads.php:333
+#@ directory
+msgid "Purchase Package"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:351
+#: register-templates/templates/user_directory_payments.php:48
+#: settings/plugin_options.php:220
+#@ directory
+msgid "Package"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:356
+#@ directory
+msgid "Transactions"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:364
+#@ directory
+msgid "Expired ad: "
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:367
+#@ directory
+msgid "Pending ad"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:369
+#@ directory
+msgid "Deactivated ad"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:371
+#@ directory
+msgid "Active ad"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:382
+#@ directory
+msgid "Active"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:384
+#@ directory
+msgid "Deactive"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:414
+#@ directory
+msgid "Remove"
+msgstr ""
+
+#: register-templates/templates/directory_ads.php:519
+#: register-templates/templates/user_directory_payments.php:98
+#: settings/plugin_options.php:295
+#@ directory
+msgid "No Result Found"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:178
+#: register-templates/templates/functions_profile.php:313
+#: register-templates/templates/functions_profile.php:388
+#@ directory
+msgid "Favourites"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:183
+#@ directory
+msgid "Clear all Favorites"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:244
+#@ directory
+msgid "by"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:244
+#@ directory
+msgid "Posted on"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:262
+#: register-templates/templates/functions_profile.php:266
+#@ directory
+msgid "You don't have Favourite Ads."
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:303
+#: register-templates/templates/functions_profile.php:338
+#@ directory
+msgid "About Me"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:318
+#: register-templates/templates/functions_profile.php:414
+#: register-templates/templates/user_directory_payments.php:12
+#: settings/plugin_options.php:183
+#@ directory
+msgid "Payments"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:328
+#: register-templates/templates/functions_profile.php:424
+#@ directory
+msgid "Profile Settings"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:430
+#@ directory
+msgid "Logout"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:536
+#@ directory
+msgid "Email should not be empty."
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:553
+#@ directory
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:567
+#@ directory
+msgid "Please check your email for login details."
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:591
+#, php-format
+#@ default
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:592
+#: register-templates/templates/functions_profile.php:600
+#, php-format
+#@ default
+msgid "Username: %s"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:593
+#, php-format
+#@ default
+msgid "E-mail: %s"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:595
+#, php-format
+#@ default
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:601
+#, php-format
+#@ default
+msgid "Password: %s"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:604
+#, php-format
+#@ default
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:649
+#@ directory
+msgid "Display Photo"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:673
+#@ directory
+msgid "Profile Public ON/OFF"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:679
+#@ directory
+msgid "Contact Form ON/OFF"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:824
+#: register-templates/templates/functions_profile.php:1104
+#@ directory
+msgid "Featured Ad Price"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:926
+#@ directory
+msgid "Package Name"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:929
+#@ directory
+msgid "Start Date"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:930
+#@ directory
+msgid "End Date"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:932
+#@ directory
+msgid "Featured till"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:977
+#@ directory
+msgid "No Package Selected"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:1213
+#@ directory
+msgid "Have your Ad appear at the top of the category listings for 3, 7 or 14 days."
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:1249
+#@ directory
+msgid " days"
+msgstr ""
+
+#: register-templates/templates/functions_profile.php:1269
+#@ directory
+msgid "No. of Days"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:28
+#@ directory
+msgid "You are not authorised user."
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:50
+#@ directory
+msgid "Empty post title"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:61
+#@ directory
+msgid "Empty post content"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:70
+#@ directory
+msgid "Please Accept the Term &amp; conditions"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:75
+#@ directory
+msgid "Please Select a package"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:162
+#@ Directory
+msgid "Featured file is too big"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:166
+#@ Directory
+msgid "Invalid Featured file type"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:285
+#: register-templates/templates/page_add_directory.php:289
+#@ directory
+msgid "Ad published successfully"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:287
+#@ directory
+msgid "Ad Updated successfully"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:412
+#@ directory
+msgid "Update Directory"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:414
+#@ directory
+msgid "Add Directory"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:818
+#@ directory
+msgid "Select Packages"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:830
+#@ directory
+msgid "Current Package"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:855
+#@ directory
+msgid "Accept"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:855
+#@ directory
+msgid "Terms and conditions"
+msgstr ""
+
+#: register-templates/templates/page_add_directory.php:858
+#@ directory
+msgid "Carefully Check Entered information and then click button to submit them."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:26
+#@ directory
+msgid "You are not able to update profile setting from demo account."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:33
+#@ directory
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:40
+#@ directory
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:103
+#@ directory
+msgid "You must have to login first to access this page."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:130
+#@ directory
+msgid "Subscriber"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:148
+#@ directory
+msgid "Post New Ad"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:149
+#@ directory
+msgid "Create your new Ad."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:165
+#@ directory
+msgid "Pages: "
+msgstr ""
+
+#: register-templates/templates/page_profile.php:172
+#@ directory
+msgid "About"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:183
+#@ directory
+msgid "Contact Me"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:193
+#@ directory
+msgid "Email Address*"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:194
+#@ directory
+msgid "Phone Number"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:195
+#@ directory
+msgid "Type Message*"
+msgstr ""
+
+#: register-templates/templates/page_profile.php:226
+#@ directory
+msgid "Please enter a username."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:227
+#@ directory
+msgid "Please enter a phone number."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:228
+#@ directory
+msgid "<label></label>Please enter a message."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:230
+#@ directory
+msgid "Please enter a email address."
+msgstr ""
+
+#: register-templates/templates/page_profile.php:231
+#@ directory
+msgid "lease enter a valid email address."
+msgstr ""
+
+#: register-templates/templates/user_directory_payments.php:49
+#: settings/plugin_options.php:221
+#@ directory
+msgid "Payment date"
+msgstr ""
+
+#: register-templates/templates/user_directory_payments.php:51
+#: settings/plugin_options.php:223
+#@ directory
+msgid "Duration in days"
+msgstr ""
+
+#: settings/plugin_options.php:58
+#@ directory
+msgid "Payment"
+msgstr ""
+
+#: settings/plugin_options.php:97
+#@ directory
+msgid "Unlimited – Free Package On/Off"
+msgstr ""
+
+#: settings/plugin_options.php:104
+#: settings/plugin_options.php:105
+#@ directory
+msgid "Add Package"
+msgstr ""
+
+#: settings/plugin_options.php:139
+#: settings/plugin_options.php:319
+#@ directory
+msgid "Package Settings"
+msgstr ""
+
+#: settings/plugin_options.php:159
+#: settings/plugin_options.php:342
+#@ directory
+msgid "No of days"
+msgstr ""
+
+#: settings/plugin_options.php:325
+#@ directory
+msgid "Package Title"
+msgstr ""
+
+#: widgets/widgets.php:44
+#@ directory
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: widgets/widgets.php:44
+#@ directory
+msgid "Add product gallery images"
+msgstr ""
+

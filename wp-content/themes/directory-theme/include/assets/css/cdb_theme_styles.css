@@ -1,0 +1,167 @@
+/*========================================================================
+	Theme CDB Styles
+==========================================================================*/
+
+/* Override theme classes
+-------------------------------------------------- */
+
+body {
+	opacity: 0;
+}
+
+.wrapper {
+	margin-top: 0;
+}
+
+.main-section {
+	min-height: 480px;
+}
+
+/* navigation */
+
+.main-navbar .navigation {
+	padding: 5px 0;
+}
+
+.navigation > ul > li > a {
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.navigation > ul > li.current-menu-item > a:after,
+.navigation > ul > li.current-menu-parent > a:after {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 5px;
+	left: 0;
+	bottom: -5px;
+	background-color: #157da4;
+}
+
+.navigation ul > li > a:before {
+	display: none;
+}
+
+.sub-dropdown:before {
+	border-bottom-color: #157da4 !important;
+}
+
+.navigation ul .sub-dropdown li a {
+	font-weight: normal;
+}
+
+.navigation ul .sub-dropdown li.current_page_item a {
+	font-weight: bold;
+}
+
+/* sub header */
+
+.pageinfo h1 {
+	text-transform: uppercase;
+	font-size: 42px !important;
+	margin: 0;
+	line-height: 1 !important;
+}
+
+/* directory search */
+
+.directory-advanced-search-content form ul li input.form-text,
+.directory-advanced-search-content ul li input[type="search"],
+.directory-advanced-search-content ul li input[type="text"],
+.directory-advanced-search-content ul li input[type="password"],
+.directory-advanced-search-content form ul li .SumoSelect > .CaptionCont {
+    box-shadow: 0px 0px 2px 0px #333;
+}
+
+.cs-search-v2 .directory-advanced-search-content,
+.cs-search-v2 .directory-advanced-search-content .dir-search-fields,
+.cs-search-v1 .directory-advanced-search-content,
+.cs-search-v1 .directory-advanced-search-content .dir-search-fields {
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: none;
+}
+
+.cs-search-v1 .directory-advanced-search-content form ul li .form-submit,
+.cs-search-v2 .directory-advanced-search-content form ul li .form-submit {
+	background-color: #157da4 !important;
+	line-height: 1.7;
+}
+
+/* directory search view 1 */
+
+.cs-search-v1 .dir-search-fields {
+	display: block;
+}
+
+.cs-search-v1 .dir-search-fields h2 {
+	margin-bottom: 20px;
+}
+
+.cs-search-v1 .dir-search-fields > ul {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	max-width: 1140px;
+	margin: 0 auto;	
+}
+
+.cs-search-v1 .dir-search-fields > ul > li {
+	vertical-align: top !important;
+}
+
+/* directory search view 2 */
+
+.cs-search-v2 .directory-advanced-search-content {
+	width: 50%;
+}
+
+.cs-search-v2 .dir-search-fields h2 {
+	color: #333 !important;
+}
+
+/* forms elements */
+
+.contact-form.cs_form_styling textarea {
+	max-width: 100%;
+}
+
+/* footer styles */
+
+#backtop {
+	bottom: 50px;
+	right: 30px;	
+	color: #FFF;
+}
+
+#backtop:before {
+	bottom: 50px;
+	right: 30px;
+	box-shadow: none;
+}
+
+.footer_icon > a > img {
+	border-radius: 50%;
+}
+
+.footer_icon + p {
+	line-height: 32px !important;
+}
+
+/* CDB styles theme classes
+-------------------------------------------------- */
+
+.top-bar .cdb_sep {
+	margin: 0 10px;
+}
+
+#cdb_contact_box .button_style {
+	display: block;
+	text-align: right;
+}
+
+#cdb_contact_box .button_style > a {
+	margin: 35px 0;
+}
